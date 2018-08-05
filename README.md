@@ -1,5 +1,8 @@
 # Visitors origin
 
+Note: this module has been deprecated with [thirty bees](https://github.com/thirtybees/thirtybees)
+1.0.4 and integrated into the [statsmodule module](https://github.com/thirtybees/statsmodule).
+
 ## About
 
 Adds a graph displaying the websites your visitors came from to the Stats dashboard.
